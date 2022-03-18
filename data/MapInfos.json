@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"自分の家","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":false,"name":"気絶空間","order":2,"parentId":1,"scrollX":819,"scrollY":453},
+null,
+null,
+{"id":5,"expanded":false,"name":"45水槽①","order":3,"parentId":1,"scrollX":811,"scrollY":507},
+{"id":6,"expanded":false,"name":"90水槽①","order":4,"parentId":1,"scrollX":811,"scrollY":507}
+]
